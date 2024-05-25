@@ -1,0 +1,5 @@
+npm i --save mysql2
+it allows us to write sql code and execute sql code in node js and interact with db 
+now we r using mysql 
+the next doo we need to connect to our db  from inside our apk for that we will go to util folder
+database.js

@@ -1,1 +1,3 @@
 add product
+
+the problemis the query will become more and more complex and our apk logic will become more complex and at some point we have to connect tables  there is a way easier approach to that that allows us to not writeall these query we don't have to write any sql code  but instead we work with nativ js object that gives us certain functionality we need for connecting them deleting them adding them and so on we use another third party packet we use in this apk that makes our lifes bunch easier with Sequelize
